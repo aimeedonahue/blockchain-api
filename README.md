@@ -22,3 +22,6 @@ This is all you need to work with the API:
 Copyright © 2013-2014 Biteasy, LTD 
 
 Distributed under the Apache License, Version 2.0
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/aimeedonahue/blockchain-api/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
